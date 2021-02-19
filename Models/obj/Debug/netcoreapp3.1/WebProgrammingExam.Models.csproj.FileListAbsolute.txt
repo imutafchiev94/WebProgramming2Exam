@@ -1,0 +1,9 @@
+F:\Development\WebProgrammingExam\Models\bin\Debug\netcoreapp3.1\WebProgrammingExam.Models.deps.json
+F:\Development\WebProgrammingExam\Models\bin\Debug\netcoreapp3.1\WebProgrammingExam.Models.dll
+F:\Development\WebProgrammingExam\Models\bin\Debug\netcoreapp3.1\WebProgrammingExam.Models.pdb
+F:\Development\WebProgrammingExam\Models\obj\Debug\netcoreapp3.1\WebProgrammingExam.Models.csprojAssemblyReference.cache
+F:\Development\WebProgrammingExam\Models\obj\Debug\netcoreapp3.1\WebProgrammingExam.Models.AssemblyInfoInputs.cache
+F:\Development\WebProgrammingExam\Models\obj\Debug\netcoreapp3.1\WebProgrammingExam.Models.AssemblyInfo.cs
+F:\Development\WebProgrammingExam\Models\obj\Debug\netcoreapp3.1\WebProgrammingExam.Models.csproj.CoreCompileInputs.cache
+F:\Development\WebProgrammingExam\Models\obj\Debug\netcoreapp3.1\WebProgrammingExam.Models.dll
+F:\Development\WebProgrammingExam\Models\obj\Debug\netcoreapp3.1\WebProgrammingExam.Models.pdb

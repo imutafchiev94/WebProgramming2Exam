@@ -1,0 +1,15 @@
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Data.deps.json
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Data.runtimeconfig.json
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Data.runtimeconfig.dev.json
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Data.dll
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Data.pdb
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Models.dll
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\bin\Debug\netcoreapp3.1\WebProgrammingExam.Models.pdb
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.csprojAssemblyReference.cache
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.AssemblyInfoInputs.cache
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.AssemblyInfo.cs
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.csproj.CoreCompileInputs.cache
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.csproj.CopyComplete
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.dll
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.pdb
+F:\Development\WebProgrammingExam\WebProgrammingExam.Data\obj\Debug\netcoreapp3.1\WebProgrammingExam.Data.genruntimeconfig.cache
